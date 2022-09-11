@@ -1,6 +1,6 @@
-# Maailmanmatkaajat
+# Maailmanmatkaaja
 
-"Maailmanmatkaajat" -sovellus antaa matkustuksesta kiinnostuneille ihmisille mahdollisuuden jakaa omia kokemuksiaan ja löytää muiden käyttäjien postauksien ja arvostelujen perusteella heidän seuraavat matkakohteensa. 
+"Maailmanmatkaaja" -sovellus antaa matkustuksesta kiinnostuneille ihmisille mahdollisuuden jakaa omia kokemuksiaan ja löytää muiden käyttäjien postauksien ja arvostelujen perusteella heidän seuraavat matkakohteensa. 
 
 Sovelluksen käytössä tulee olemaan World Cities Database(https://simplemaps.com/data/world-cities), jonka tietokantatiedostossa on koottuna 43 000 maailman kaupungeista. Koska kyseessä on ilmaisversio tietokannasta, siinä ei ole kaikkia maailman kaupunkeja, mutta tämän sovelluksen käyttötarkoituksia varten tarpeeksi.
 
