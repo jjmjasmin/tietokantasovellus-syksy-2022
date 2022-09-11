@@ -17,5 +17,5 @@ Sovelluksen ominaisuuksia ovat seuraavat:
 - Julkaisupalstalla näkyvät postaukset ovat uusin ensin järjestyksessä ja julkaisupalstaa voi myös katsella käyttäjä, joka ei ole luonut tiliä, mutta tällöin julkaisuille ei voi antaa tykkäyksiä tai kommentteja.
 - Käyttäjä voi halutessaan poistaa omia postauksiaan, jolloin poistuvat myös postaukseen liitetyt kommentit.
 - Käyttäjä voi avata toisen käyttäjän profiilin, josta löytää kaikki tämän käyttäjän postaukset. Profiilista näkee kuinka monessa kaupungissa ja maassa käyttäjä on matkustanut yhteensä ja myös jos käyttäjä oli lisännyt tililleen lisätiedoiksi syntymäpäivää, kotimaata tai kiinnostuksen kohteita. 
-- Käyttäjä voi seurata toisia käyttäjää profiilin kautta tai suoraan postauksesta. Tätä hyödyntäen on julkaisupalstaa mukauttava vaihtoehto, jolloin näkee vain postaukset niiltä käyttäjiltä joita seuraa.
+- Käyttäjä voi seurata toista käyttäjää profiilin kautta tai suoraan postauksesta. Tätä hyödyntäen on julkaisupalstaa mukauttava vaihtoehto, jolloin näkee vain postaukset niiltä käyttäjiltä joita seuraa. Seurauksen voi myös poistaa.
 - Tavallisen käyttäjän lisäksi on pääkäyttäjiä, ketkä pystyvät poistamaan postauksia tai tilejä, jos nämä ovat haitallisia yhteisölle.
